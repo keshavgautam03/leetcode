@@ -16,8 +16,6 @@ public:
                 answer=true;
             }
             else{
-                // answer=false;
-                // break;
                 return false;
             }
 
