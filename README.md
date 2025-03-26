@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/keshavgautam03/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/keshavgautam03/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
