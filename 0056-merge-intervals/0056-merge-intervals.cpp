@@ -3,12 +3,12 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>>ans;
         sort(intervals.begin(), intervals.end());
-        for(const auto&interval : intervals){
-            if(ans.empty() || ans.back()[1] < interval[0]){
-                ans.push_back(interval);
+        for(const auto& it:intervals){
+            if(ans.empty() || ans.back()[1]<it[0]){
+                ans.push_back(it);
             }
             else{
-                ans.back()[1]=max(ans.back()[1],interval[1]);
+                ans.back()[1]=max(it[1],ans.back()[1]);
             }
         }
         return ans;
