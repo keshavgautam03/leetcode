@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keshavgautam03/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
