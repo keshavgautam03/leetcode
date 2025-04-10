@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/keshavgautam03/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavgautam03/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/keshavgautam03/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -120,8 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/keshavgautam03/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/keshavgautam03/leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
