@@ -6,5 +6,4 @@ where (customer_id,order_date) in (
     select customer_id, min(order_date) as mini
     from Delivery
     group by customer_id
-
 )
