@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/keshavgautam03/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/keshavgautam03/leetcode/tree/master/0048-rotate-image) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/keshavgautam03/leetcode/tree/master/1646-kth-missing-positive-number) |
