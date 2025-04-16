@@ -41,13 +41,7 @@
 //     }
 // };
 
-// Brute Force:
-               // 1.Merge Both Array
-              // 2.Sort them
-             // 3.Find Median
-            // TIME COMPLEXITY: O(n)+O(nlogn)+O(n)
-            // SPACE COMPLEXITY: O(1)
- 
+
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
