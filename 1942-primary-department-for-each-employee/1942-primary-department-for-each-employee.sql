@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 select employee_id,department_id
 from Employee
-where primary_flag='y' or employee_id in (
+where primary_flag='Y' or employee_id in (
     select employee_id
     from Employee
     group by employee_id
