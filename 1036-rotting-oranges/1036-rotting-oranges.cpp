@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int orangesRotting(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
@@ -26,8 +25,8 @@ public:
             for(int i=0;i<4;i++){
                 int nrow=delr[i]+row;
                 int ncol=delc[i]+col;
-                if(nrow<m && nrow>=0 && ncol>=0 && ncol<n && vis[nrow][ncol]!=2 && 
-                grid[nrow][ncol]==1){
+                if(nrow<m && nrow>=0 && ncol>=0 && ncol<n
+                 && vis[nrow][ncol]!=2 && grid[nrow][ncol]==1){
                     q.push({{nrow,ncol},t+1});
                     vis[nrow][ncol]=2;
                 }
