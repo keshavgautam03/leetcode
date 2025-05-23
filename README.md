@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keshavgautam03/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/keshavgautam03/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/keshavgautam03/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/keshavgautam03/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavgautam03/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/keshavgautam03/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/keshavgautam03/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/keshavgautam03/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavgautam03/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
