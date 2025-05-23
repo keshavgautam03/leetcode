@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/keshavgautam03/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavgautam03/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
