@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/keshavgautam03/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavgautam03/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/keshavgautam03/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/keshavgautam03/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keshavgautam03/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
