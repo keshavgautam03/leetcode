@@ -17,10 +17,8 @@ public:
             else{
                 e++;
             }
-        }
-    
+        } 
     vector<int>t(ans.begin(),ans.end());
-    
         return t;
     }
 };
