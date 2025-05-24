@@ -5,7 +5,6 @@ public:
         if (n <= 2) return n;
         int count=INT_MIN;
         int maxi=INT_MIN;
-        
         for(int i=0;i<n;i++){
             unordered_map<float,int>mp(n);
             for(int j=i+1;j<n;j++){
@@ -17,7 +16,6 @@ public:
                    mp[slope]++;
                 }
             }
-        
         for(const auto&it : mp){
             if(count<it.second){
                 count=it.second;
