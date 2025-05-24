@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/keshavgautam03/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/keshavgautam03/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/keshavgautam03/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/keshavgautam03/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavgautam03/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/keshavgautam03/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keshavgautam03/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/keshavgautam03/leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [2050-count-good-numbers](https://github.com/keshavgautam03/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshavgautam03/leetcode/tree/master/0238-product-of-array-except-self) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
