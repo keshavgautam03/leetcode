@@ -1,50 +1,44 @@
+//self
 class Solution {
 public:
-    // Efficient prime checker up to 1e9
-    bool isPrime(long long num) {
-        if (num <= 1) return false;
-        if (num == 2 || num == 3) return true;
-        if (num % 2 == 0 || num % 3 == 0) return false;
-        for (long long i = 5; i * i <= num; i += 6) {
-            if (num % i == 0 || num % (i + 2) == 0) return false;
+    bool isPrime(long long n){
+        if(n<=1)return false;
+        if(n==2 || n==3)return true;
+        if(n % 2 == 0 || n % 3 == 0) return false;
+        int limit = sqrt(n);
+        for(int i=5;i<=limit;i+=6){
+            if(n%i==0 || n%(i+2)==0)return false;
         }
         return true;
     }
-
     long long sumOfLargestPrimes(string s) {
-        unordered_set<long long> uniqueNumbers;
-        int n = s.length();
-
-        // Generate all substrings
-        for (int i = 0; i < n; ++i) {
-            string numStr = "";
-            for (int j = i; j < n ; ++j) {  // Max 10 digits
-                numStr += s[j];
-                try {
-                    long long num = stoll(numStr);
-                    uniqueNumbers.insert(num);
-                } catch (...) {
-                    continue;  // Skip numbers that are too large
+       unordered_set<long long>uniqueNumbers;
+        int m=s.size();
+        for(int i=0;i<m;i++){
+            string numberString="";
+            for(int j=i;j<m;j++){
+                numberString+=s[j];
+                try{
+                    long long number= stoll(numberString);
+                    uniqueNumbers.insert(number);
+                }
+                    catch(...){
+                        continue;
+                    }
+            }
+        }
+            vector<long long>allPrimes;
+            for(auto it : uniqueNumbers){
+                if(isPrime(it)){
+                    allPrimes.push_back(it);
                 }
             }
-        }
-
-        vector<long long> primes;
-        for (long long num : uniqueNumbers) {
-            if (isPrime(num)) {
-                primes.push_back(num);
+            if(allPrimes.empty())return 0;  
+            sort(allPrimes.begin(),allPrimes.end(),greater<long long>());
+            long long ans=0;
+            for(int i=0;i<min(3,(int)allPrimes.size());i++){
+                ans+=allPrimes[i];
             }
-        }
-
-        if (primes.empty()) return 0;
-
-        sort(primes.begin(), primes.end(), greater<long long>());
-
-        long long sum = 0;
-        for (int i = 0; i < min(3, (int)primes.size()); ++i) {
-            sum += primes[i];
-        }
-
-        return sum;
+            return ans;
     }
 };
