@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void dfs(vector<string>& ans,string stringToEnter,int countCloseP,int countOpenP,int n){
-        if(countCloseP==n && countCloseP==n){
-            ans.push_back(stringToEnter);
+    void helper(vector<string>&ans,int n,string curr_paren,int openBracket,int closeBracket){
+        if(openBracket==n && closeBracket==n){
+            ans.push_back(curr_paren);
             return;
         }
-        if(countOpenP<n){
-            dfs(ans,stringToEnter + "(",countCloseP,countOpenP+1,n);
+        if(openBracket<n){
+            helper(ans,n,curr_paren + "(",openBracket+1,closeBracket);
         }
-        if(countCloseP<countOpenP){
-            dfs(ans,stringToEnter + ")",countCloseP+1,countOpenP,n);
+        
+        if(openBracket>closeBracket){
+            helper(ans,n,curr_paren + ")",openBracket,closeBracket+1);
         }
     }
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        dfs(ans,"",0,0,n);
+        vector<string>ans;
+        helper(ans,n,"",0,0);
         return ans;
     }
-    
 };
