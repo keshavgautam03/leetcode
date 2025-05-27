@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/keshavgautam03/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/keshavgautam03/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/keshavgautam03/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/keshavgautam03/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/keshavgautam03/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/keshavgautam03/leetcode/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/keshavgautam03/leetcode/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
