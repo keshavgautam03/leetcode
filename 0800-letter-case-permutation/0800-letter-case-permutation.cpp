@@ -10,8 +10,7 @@ public:
         else{
           helper(index+1,curr+(char)tolower(s[index]),ans,n,s);
           helper(index+1,curr+(char)toupper(s[index]),ans,n,s);  
-        }
-        
+        } 
     }
     vector<string> letterCasePermutation(string s) {
         vector<string>ans;
