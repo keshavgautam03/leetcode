@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavgautam03/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
+| [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/keshavgautam03/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
 ## Math
 |  |
 | ------- |
