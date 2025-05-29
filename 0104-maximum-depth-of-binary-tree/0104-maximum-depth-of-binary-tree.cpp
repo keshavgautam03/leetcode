@@ -12,9 +12,7 @@
 class Solution {
 public:
     void helper(int index,TreeNode*root,int& maxdepth){
-        if(root==NULL){
-            return;
-        }
+        if(root==NULL)return;
         maxdepth=max(maxdepth,index);
         helper(index+1,root->right,maxdepth);
         helper(index+1,root->left,maxdepth);
