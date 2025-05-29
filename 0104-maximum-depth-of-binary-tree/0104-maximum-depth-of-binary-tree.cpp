@@ -15,9 +15,7 @@ public:
         if(root==NULL){
             return;
         }
-      
-            maxdepth=max(maxdepth,index);
-        
+        maxdepth=max(maxdepth,index);
         helper(index+1,root->right,maxdepth);
         helper(index+1,root->left,maxdepth);
     }
@@ -25,6 +23,5 @@ public:
         int maxdepth=0;
         helper(1,root,maxdepth);
         return maxdepth;
-
     }
 };
