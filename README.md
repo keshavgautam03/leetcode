@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/keshavgautam03/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/keshavgautam03/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 | [1646-kth-missing-positive-number](https://github.com/keshavgautam03/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/keshavgautam03/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/keshavgautam03/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 ## Database
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/keshavgautam03/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/keshavgautam03/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/keshavgautam03/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
