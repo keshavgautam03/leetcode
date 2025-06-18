@@ -1,11 +1,11 @@
 class Solution {
 public:
+    int m, n;
+    vector<int>delr={-1,0,+1,0};
+    vector<int>delc={0,+1,0,-1};
     void dfs(int row,int col,vector<vector<int>>&vis,vector<vector<int>>& grid){
         vis[row][col]=1;
-        int m=grid.size();
-        int n=grid[0].size();
-        vector<int>delr={-1,0,+1,0};
-        vector<int>delc={0,+1,0,-1};
+        
         for(int i=0;i<4;i++){
             int nrow=delr[i]+row;
             int ncol=delc[i]+col;
@@ -15,8 +15,8 @@ public:
         }
     }
     int numEnclaves(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
+         m=grid.size();
+         n=grid[0].size();
         vector<vector<int>>vis(m,vector<int>(n,0));
         for(int i=0;i<m;i++){
             if(!vis[i][0] && grid[i][0]==1){
