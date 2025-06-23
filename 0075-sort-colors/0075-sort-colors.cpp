@@ -1,22 +1,22 @@
-// Dutch National Flag Algorithm
-
+//dutch national flag
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int high=nums.size()-1;
-        int mid=0,low=0;
-        while(mid<=high){
+        int s=0;
+        int e=nums.size()-1;
+        int mid=0;
+        while(mid<=e){ 
             if(nums[mid]==0){
-                swap(nums[mid],nums[low]);
+                swap(nums[mid],nums[s]);
                 mid++;
-                low++;
+                s++;
             }
             else if(nums[mid]==1){
                 mid++;
             }
             else{
-                swap(nums[mid],nums[high]);
-                high--;
+                swap(nums[mid],nums[e]);
+                e--;
             }
         }
     }
@@ -24,23 +24,33 @@ public:
 // class Solution {
 // public:
 //     void sortColors(vector<int>& nums) {
-//         int zeroes=0;
-//         int ones=0;
-//         int twos=0;
+//         //WE HAVE TO JUST SORT IN THIS QUESTION AND NOTHING ELSE
+//         // sort(nums.begin(),nums.end());
+//         int count0=0,count1=0,count2=0;
 //         for(int i=0;i<nums.size();i++){
 //             if(nums[i]==0){
-//                 zeroes++;
-//             }
-//             else if(nums[i]==1){
-//                 ones++;
-//             }
-//             else{
-//                 twos++;
+//                 count0++;
 //             }
 //         }
-//         int i = 0;
-//         while (zeroes--) nums[i++] = 0;
-//         while (ones--) nums[i++] = 1;
-//         while (twos--) nums[i++] = 2;
+//         for(int i=0;i<nums.size();i++){
+//             if(nums[i]==1){
+//                 count1++;
+//             }
+//         }
+//         for(int i=0;i<nums.size();i++){
+//             if(nums[i]==2){
+//                 count2++;
+//             }
+//         }
+//         nums.clear();
+//         for(int i=0;i<count0;i++){
+//             nums.push_back(0);
+//         }
+//         for(int i=0;i<count1;i++){
+//             nums.push_back(1);
+//         }
+//         for(int i=0;i<count2;i++){
+//             nums.push_back(2);
+//         }
 //     }
 // };
