@@ -16,11 +16,9 @@ public:
             int col=q.front().second.second;
             if (row == m - 1 && col == n - 1) return dis;
             q.pop();
-
             for(int i=0;i<8;i++){
                 int nrow=row+delr[i];
-                int ncol=col+delc[i];
-                
+                int ncol=col+delc[i]; 
                 if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]==0
                 && dis+1<dist[nrow][ncol]){
                     dist[nrow][ncol]=dis+1;
