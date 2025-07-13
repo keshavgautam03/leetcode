@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/keshavgautam03/leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/keshavgautam03/leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/keshavgautam03/leetcode/tree/master/0162-find-peak-element) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/keshavgautam03/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
