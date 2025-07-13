@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/keshavgautam03/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/keshavgautam03/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/keshavgautam03/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/keshavgautam03/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -294,12 +298,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/keshavgautam03/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/keshavgautam03/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/keshavgautam03/leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
