@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/keshavgautam03/leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/keshavgautam03/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/keshavgautam03/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/keshavgautam03/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/keshavgautam03/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/keshavgautam03/leetcode/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
