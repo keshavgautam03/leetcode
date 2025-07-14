@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavgautam03/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/keshavgautam03/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/keshavgautam03/leetcode/tree/master/0127-word-ladder) |
@@ -300,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavgautam03/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavgautam03/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/keshavgautam03/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/keshavgautam03/leetcode/tree/master/0207-course-schedule) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/keshavgautam03/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/keshavgautam03/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
