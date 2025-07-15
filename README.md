@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavgautam03/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/keshavgautam03/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/keshavgautam03/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/keshavgautam03/leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/keshavgautam03/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/keshavgautam03/leetcode/tree/master/0162-find-peak-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/keshavgautam03/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
