@@ -28,8 +28,7 @@ public:
                         dist[nrow][ncol]=currEffort;
                         pq.push({currEffort, nrow, ncol});
                     }
-                }
-                
+                } 
             }
         }
         return 0;
