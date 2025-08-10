@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/keshavgautam03/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/keshavgautam03/leetcode/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/keshavgautam03/leetcode/tree/master/0713-subarray-product-less-than-k) |
