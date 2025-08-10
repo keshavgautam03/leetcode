@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/keshavgautam03/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/keshavgautam03/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavgautam03/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavgautam03/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/keshavgautam03/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/keshavgautam03/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/keshavgautam03/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/keshavgautam03/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/keshavgautam03/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/keshavgautam03/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/keshavgautam03/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavgautam03/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keshavgautam03/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/keshavgautam03/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/keshavgautam03/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgautam03/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
