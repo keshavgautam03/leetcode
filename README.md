@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/keshavgautam03/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/keshavgautam03/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/keshavgautam03/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/keshavgautam03/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keshavgautam03/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/keshavgautam03/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
