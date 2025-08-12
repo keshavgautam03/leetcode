@@ -3,25 +3,18 @@ class Solution {
 public:
    //USiNG sliding window
     int lengthOfLongestSubstring(string s) {
-      int maxlength=0;
-      int right=0;
-      int left=0;
-      int n=s.size();
-    //   int hash[256];
-    //   for(int i=0;i<256;i++){
-    //     hash[i]=-1;
-    //   }
-    vector<int>hash(256,-1);
-      while(right<n){
-        if(hash[s[right]]!=-1 && hash[s[right]]>=left){
-            left=hash[s[right]]+1;
+     int r=0,l=0;
+     int n=s.length();
+     int maxlen=0;
+     vector<int>hash(256,-1);
+     while(r<n){
+        if(hash[s[r]]!=-1 && hash[s[r]]>=l){
+            l = hash[s[r]] + 1;
         }
-  
-
-        maxlength=max(right-left+1,maxlength);
-        hash[s[right]]=right;
-        right++;
-      }
-      return maxlength;
+        maxlen=max(maxlen,r-l+1);
+        hash[s[r]]=r;
+        r++;
+     }
+     return maxlen;
     }
 };
