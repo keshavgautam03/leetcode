@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavgautam03/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/keshavgautam03/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Union Find
 |  |
 | ------- |
@@ -422,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/keshavgautam03/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/keshavgautam03/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
