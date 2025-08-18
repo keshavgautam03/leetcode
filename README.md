@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/keshavgautam03/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavgautam03/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/keshavgautam03/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/keshavgautam03/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/keshavgautam03/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/keshavgautam03/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/keshavgautam03/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/keshavgautam03/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavgautam03/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/keshavgautam03/leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/keshavgautam03/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/keshavgautam03/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/keshavgautam03/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/keshavgautam03/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/keshavgautam03/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/keshavgautam03/leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/keshavgautam03/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/keshavgautam03/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/keshavgautam03/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/keshavgautam03/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/keshavgautam03/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Design
 |  |
