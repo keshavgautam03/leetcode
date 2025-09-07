@@ -13,16 +13,16 @@
 class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
-        int minprice=INT_MAX;
-        int maxprice=0;
-        for(int price : prices){
-            if(price<minprice){
-                minprice=price;
+        int minPrice=INT_MAX;
+        int ans=0;
+        for(int i=0;i<prices.size();i++){
+            if(prices[i]<minPrice){
+                minPrice=prices[i];
             }
-            else if((price - minprice)>maxprice){
-                maxprice=price - minprice;
+            else{
+                ans=max(ans,prices[i]-minPrice);
             }
         }
-        return maxprice;
+        return ans;
     }
 };
