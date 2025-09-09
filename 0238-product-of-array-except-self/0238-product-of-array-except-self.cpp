@@ -3,6 +3,7 @@ public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> answer(n, 1); 
+        
         int leftproduct=1;
         for(int i=0;i<n;i++){
             answer[i]*=leftproduct;
@@ -13,6 +14,7 @@ public:
             answer[i]*=rightproduct;
             rightproduct*=nums[i];
         }
+        
         return answer;
     }
 };
