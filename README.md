@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keshavgautam03/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/keshavgautam03/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/keshavgautam03/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/keshavgautam03/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keshavgautam03/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Array
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/keshavgautam03/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/keshavgautam03/leetcode/tree/master/0383-ransom-note) |
 | [0800-letter-case-permutation](https://github.com/keshavgautam03/leetcode/tree/master/0800-letter-case-permutation) |
+| [1894-merge-strings-alternately](https://github.com/keshavgautam03/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
